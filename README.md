@@ -1,6 +1,14 @@
-# AI-Enhanced-Smart-Stethoscope
-AI-Enhanced Smart Stethoscope
-To structure your project for "AI Enhanced Stethoscope for Real Time Cardiopulmonary Diagnostics and Telemedicine Integration," here's a roadmap of how you can organize the project along with the code, explanations, and README file. This will help you maintain a clean and organized project structure that’s suitable for GitHub.
+---
+
+# 🚀 AI Enhanced Smart Stethoscope
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange)](https://www.tensorflow.org/)
+
+AI-Enhanced Smart Stethoscope for real-time cardiopulmonary diagnostics and telemedicine integration. This project integrates **Artificial Intelligence (AI)** with an enhanced stethoscope to provide real-time analysis and diagnostics of heart and lung sounds. 🚑📈 The AI model detects potential anomalies and automatically generates diagnostic reports.
+
+---
 
 ### Project Structure
 
@@ -27,19 +35,6 @@ To structure your project for "AI Enhanced Stethoscope for Real Time Cardiopulmo
     └── LICENSE.md                 # License for the project
 ```
 
-Here's an animated and visually appealing GitHub README for your project, with symbols, graphs, and a step-by-step guide to running the simulations. The following example makes use of emojis, badges, and clear instructions to create a dynamic README file.
-
----
-
-# 🚀 AI Enhanced Smart Stethoscope
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange)](https://www.tensorflow.org/)
-
-AI-Enhanced Smart Stethoscope for real-time cardiopulmonary diagnostics and telemedicine integration. This project integrates **Artificial Intelligence (AI)** with an enhanced stethoscope to provide real-time analysis and diagnostics of heart and lung sounds. 🚑📈 The AI model detects potential anomalies and automatically generates diagnostic reports.
-
----
 
 ## 🎯 **Features**
 
