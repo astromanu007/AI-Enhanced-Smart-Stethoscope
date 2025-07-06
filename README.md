@@ -1,5 +1,7 @@
 ---
 
+#Note Project files are removed and will be updated on 8th July 2025
+
 # 🚀 AI Enhanced Smart Stethoscope
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
