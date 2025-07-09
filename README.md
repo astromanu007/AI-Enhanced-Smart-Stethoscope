@@ -1,6 +1,6 @@
 ---
 
-# Note Project files are removed and will be updated on 8th July 2025
+# Note Project files are removed and will be updated on 15th July 2025
 
 # 🚀 AI Enhanced Smart Stethoscope
 
